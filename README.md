@@ -2,10 +2,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=2.0">
     <title>SocialMedia | @GhalangWahyuu</title>
+    <body bgcolor="black"/>
     <style>
-  body{
-        color: black;
-     }
  .img {
        border-radius: 50%;
     }
