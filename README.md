@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="id">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=2.0">
@@ -45,7 +45,7 @@
      font-weight: bold;
      }
     a:hover {
-    color: white;
+    color: black;
     background: red;
     }
     </style>
