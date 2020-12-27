@@ -24,7 +24,7 @@
      text-align: center;
      margin-top: 20px;
      padding: 20px;
-     border: 1px solid white;
+     border: 1px black;
      border-width: 2px;
      width: 290px;
      display: block;
@@ -45,7 +45,7 @@
      font-weight: bold;
      }
     a:hover {
-    color: black;
+    color: white;
     background: red;
     }
     </style>
